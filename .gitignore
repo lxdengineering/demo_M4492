@@ -1,0 +1,7 @@
+.hg*
+objects/*
+output/*
+TAGS
+*~
+
+
